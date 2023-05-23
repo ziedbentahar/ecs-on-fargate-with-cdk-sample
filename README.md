@@ -1,5 +1,9 @@
 A sample of an application using CDK's L3 construct ApplicationLoadBalancedFargateService 
 
+# prerequisites
+
+a hosted zone needs to be created upfront on your accout for `your-hosted-zome.domain.name`
+
 
 # To run
 
